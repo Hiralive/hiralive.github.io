@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>一次旅行</title>
-    <link href="/2023/05/07/first_post/"/>
-    <url>/2023/05/07/first_post/</url>
+    <title>first_post</title>
+    <link href="/2023/05/07/first-post/"/>
+    <url>/2023/05/07/first-post/</url>
     
-    <content type="html"><![CDATA[<p>一次旅行的照片</p>]]></content>
+    <content type="html"><![CDATA[<p>一次旅行的照片</p><img src="/2023/05/07/first-post/DSC_3808.jpg" class="" title="四姑娘山">]]></content>
     
     
     <categories>
